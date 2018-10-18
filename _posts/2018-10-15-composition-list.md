@@ -9,8 +9,8 @@ image: zack-2.jpg
 
 
 {% for item in site.data.composition %}
-* {{item.year}} -- {{item.title}} for {{item.instrument}} ({{item.time}})
 
+* {{item.title}}
 
 {% endfor %}
 
