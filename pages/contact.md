@@ -3,4 +3,18 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+**OFFICE ADDRESS:**
+2136 Music Building, University of Illinois,
+1114 West Nevada, Urbana, IL 61801  USA 
+
+
+**PHONE (OFFICE):**
+217-244-2686         
+
+
+**E-MAIL ADDRESS:**
+zbrownin@illinois.edu   
+
+
+**FAX:**
+217-244-4585

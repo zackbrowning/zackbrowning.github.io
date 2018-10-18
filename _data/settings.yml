@@ -12,7 +12,7 @@ menu:
 - {name: 'Recordings', folder: 'pages', file: 'documentation.html'}
 - {name: 'Reviews', folder: 'pages', file: 'about.html'}
 - {name: 'Pictures', folder: 'pages', file: 'about.html'}
-- {name: 'Martirano Award', folder: 'pages', file: 'about.html'}
+- {name: 'Martirano Award', folder: 'documentation', file: 'martirano-award.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
