@@ -8,7 +8,7 @@ image: zack-2.jpg
 ---
 
 
-{% for item in site.data.composition %}* {{item.year}} -- {{item.title}} ({{item.duration}}) \n {% endfor %}
+{% for item in site.data.composition %}\n* {{item.year}} -- {{item.title}} ({{item.duration}}){% endfor %}
 
 
 
