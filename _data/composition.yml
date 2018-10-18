@@ -1,7 +1,7 @@
 - title: Sol Moon Rocker
   year: 2013
   instrument: [flute, vibraphone]
-  length: 10 minutes
+  duration: 10 minutes
   audio: 
   video:
   tag: chamber
@@ -10,7 +10,7 @@
 - title: Unafraid
   year: 2013
   instrument: [flute, clarinet, piano]
-  length: 12 minutes
+  duration: 12 minutes
   audio:
   video: 
   tag: chamber
@@ -19,7 +19,7 @@
 - title: Vibrations of Hope
   year: 2013
   instrument: [two pianos]
-  length: 13 minutes
+  duration: 13 minutes
   audio: 
   video:
   tag: chamber
@@ -28,7 +28,7 @@
 - title: Mung Bean Mountain
   year: 2012
   instrument: [flute, clarinet, violin, cello, piano]
-  length: 17 minutes
+  duration: 17 minutes
   audio:
   video:
   tag: chamber 
