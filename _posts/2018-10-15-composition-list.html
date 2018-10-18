@@ -7,6 +7,6 @@ tags: [documentation,sample]
 image: zack-2.jpg
 ---
 
-* test 1
+* test 2
 
-{% for post in site.compositions %} {{post.title}} {% endfor %}
+{% for post in paginator.compositions %} {{ post.title }} {% endfor %}
