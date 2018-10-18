@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Biography', folder: 'documentation', file: 'about-zack-browning.html'}
-- {name: 'Compositions', folder: 'pages', file: 'resources.html'}
+- {name: 'Compositions', folder: 'documentation', file: 'composition-list.html'}
 - {name: 'Listen', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Recordings', folder: 'pages', file: 'documentation.html'}
 - {name: 'Reviews', folder: 'pages', file: 'about.html'}
