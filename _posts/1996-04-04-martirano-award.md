@@ -2,7 +2,7 @@
 layout: post
 title: "Salvatore Martirano Award"
 author: "Zack Browning"
-categories: award
+categories: documentation
 tags: [sample]
 image: martirano-1.jpg
 ---
