@@ -1,24 +1,36 @@
-- name: Sol Moon Rocker
+- title: Sol Moon Rocker
   year: 2013
   instrument: [flute, vibraphone]
   length: 10 minutes
+  audio: 
+  video:
+  tag: chamber
   note:
 
-- name: Unafraid
+- title: Unafraid
   year: 2013
   instrument: [flute, clarinet, piano]
   length: 12 minutes
+  audio:
+  video: 
+  tag: chamber
   note: can replace flute with soprano sax, clarinet with alto sax
 
-- name: Vibrations of Hope
+- title: Vibrations of Hope
   year: 2013
   instrument: [two pianos]
   length: 13 minutes
+  audio: 
+  video:
+  tag: chamber
   note:
 
-- name: Mung Bean Mountain
+- title: Mung Bean Mountain
   year: 2012
   instrument: [flute, clarinet, violin, cello, piano]
   length: 17 minutes
+  audio:
+  video:
+  tag: chamber 
   note:
 

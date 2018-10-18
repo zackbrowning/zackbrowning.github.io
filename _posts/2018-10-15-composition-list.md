@@ -7,6 +7,16 @@ tags: [documentation,sample]
 image: zack-2.jpg
 ---
 
+
+{% for item in site.data.composition %}
+* {{item.year}}  {{item.title}} for {{item.instrument}} ({{item.time}})
+
+    {% if item.audio %} listen: {{item.audio}} {% endif %}   
+    {% if item.video %} {{item.video}} {% endif %}
+
+{% endfor %}
+
+
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
 ## Getting Started
