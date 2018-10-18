@@ -9,10 +9,8 @@ image: zack-2.jpg
 
 
 {% for item in site.data.composition %}
-* {{item.year}}  {{item.title}} for {{item.instrument}} ({{item.time}})
+* {{item.year}} -- {{item.title}} for {{item.instrument}} ({{item.time}})
 
-    {% if item.audio %} listen: {{item.audio}} {% endif %}   
-    {% if item.video %} {{item.video}} {% endif %}
 
 {% endfor %}
 
