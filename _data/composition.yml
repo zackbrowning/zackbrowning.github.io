@@ -1,0 +1,24 @@
+- name: Sol Moon Rocker
+  year: 2013
+  instrument: [flute, vibraphone]
+  length: 10 minutes
+  note:
+
+- name: Unafraid
+  year: 2013
+  instrument: [flute, clarinet, piano]
+  length: 12 minutes
+  note: can replace flute with soprano sax, clarinet with alto sax
+
+- name: Vibrations of Hope
+  year: 2013
+  instrument: [two pianos]
+  length: 13 minutes
+  note:
+
+- name: Mung Bean Mountain
+  year: 2012
+  instrument: [flute, clarinet, violin, cello, piano]
+  length: 17 minutes
+  note:
+
