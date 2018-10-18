@@ -8,7 +8,8 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Biography', folder: 'pages', file: 'facts.html'}
 - {name: 'Compositions', folder: 'pages', file: 'resources.html'}
-- {name: 'Music', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Audio', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Video', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Recordings', folder: 'pages', file: 'documentation.html'}
 - {name: 'Reviews', folder: 'pages', file: 'about.html'}
 - {name: 'Pictures', folder: 'pages', file: 'about.html'}
