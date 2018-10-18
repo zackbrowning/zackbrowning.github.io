@@ -4,7 +4,7 @@ title: "About Zack Browning"
 author: "Zack Browning"
 categories: documentation
 tags: [documentation,sample]
-image: cuba1.jpg
+image: zack-1.jpg
 ---
 
 Zack Browning (b. 1953) is a composer whose music has been described as “way-cool in attitude…speed-demon music” (The Atlanta Journal-Constitution) and “propulsive, giddy, rocking… a rush of cyclic riffs and fractured meters” (The New York Times). The Irish Times has proclaimed he is “bringing together the procedures of high musical art with the taste of popular culture”. His solo CD Banjaxed on Capstone Records contains eight of his original compositions for voice, instruments and computer-generated sounds and has been called “dramatic, exciting, rhythmic, high-energy music”.  Browning’s recent composition awards include the 2013 Directors Choice Award from Boston Metro Opera, a 2011 Individual Artist Project Grant from the Illinois Arts Council for a CD of his music titled Secret Pulse (Innova Recordings, released in January 2012),  and a 2010 University of Illinois FAA Creative Fellowship for research and performances in China, Taiwan, and South Korea.  In 2010 Innova Recordings released his solo CD Venus Notorious and the San Francisco Chronicle called it “ebullient, infectiously bright” and “bouncy and exuberant - some of the music sounds like dance tracks for androids with varying numbers of feet”.  His most recent solo CD Secret Pulse also on Innova and released in 2012 was labeled “infectious” by the American Record Guide and “perfectly varied, perfectly represented by top notch ensembles, and perfectly presented” by Perspectives on Sound.  
