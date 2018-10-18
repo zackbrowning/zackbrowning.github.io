@@ -1,27 +1,42 @@
 ---
 layout: post
-title: "About Zack Browning"
-author: "Zack Browning"
+title: "Welcome to Millennial!"
+author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: zack1.jpg
+image: cuba-1.jpg
 ---
 
-Zack Browning (b. 1953) is a composer whose music has been described as “way-cool in attitude…speed-demon music” (The Atlanta Journal-Constitution) and “propulsive, giddy, rocking… a rush of cyclic riffs and fractured meters” (The New York Times). The Irish Times has proclaimed he is “bringing together the procedures of high musical art with the taste of popular culture”. His solo CD Banjaxed on Capstone Records contains eight of his original compositions for voice, instruments and computer-generated sounds and has been called “dramatic, exciting, rhythmic, high-energy music”.  Browning’s recent composition awards include the 2013 Directors Choice Award from Boston Metro Opera, a 2011 Individual Artist Project Grant from the Illinois Arts Council for a CD of his music titled Secret Pulse (Innova Recordings, released in January 2012),  and a 2010 University of Illinois FAA Creative Fellowship for research and performances in China, Taiwan, and South Korea.  In 2010 Innova Recordings released his solo CD Venus Notorious and the San Francisco Chronicle called it “ebullient, infectiously bright” and “bouncy and exuberant - some of the music sounds like dance tracks for androids with varying numbers of feet”.  His most recent solo CD Secret Pulse also on Innova and released in 2012 was labeled “infectious” by the American Record Guide and “perfectly varied, perfectly represented by top notch ensembles, and perfectly presented” by Perspectives on Sound.  
+Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
- 
+## Getting Started
 
-Performances of Browning’s music has taken place at Bang On A Can (New York),  Bonk Festival of New Music (Tampa), the International Society for Contemporary Music Festival (Miami), International Computer Music Conference (New Orleans), Spark Festival (Minneapolis), Gaudeamus Music Week (Amsterdam), Composers Choice Festival (Dublin), Sonorities Festival (Belfast) , Skinneskatteberg Festival (Sweden), Asian Contemporary Music Festival (Seoul), and National Chiang Kai Shek Cultural Center (Taipei). Recent lecture performances include Trinity College Dublin, and University College Cork in Ireland; Jilin University, Northeast Normal University, and Nanjing Normal University in China; Seoul National University and Ewha Women’s University in South Korea; and National Taiwan Normal University, Taipei National University of the Arts, Fu-Jen Catholic University, and Tunghai University in Taiwan.
+[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
- 
+## Example Content
 
-Active as a composer, conductor, and performer, Browning has played trumpet with the Atlanta
+[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
 
-Symphony Orchestra and served as co-director of the Atlanta New Music Ensemble. Browning
+## Questions?
 
-received hisBachelor’s Degree in music composition from Florida State University where he
+This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
 
-studied with Krzysztof Penderecki, and John Boda and his Master’s and Doctoratein music
+## More Jekyll!
 
-composition from the University of Illinois where his composition teachers were Benjamin Johnston, Salvatore Martirano and Paul Zonn. Browning is an Associate Professor Emeritus of Music at theUniversity of Illinois and the director of the Salvatore Martirano MemorialComposition Award. More information is available at www.zackbrowning.com
+### Lagrange
 
+Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+
+Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+
+### Portfolio Jekyll Theme
+
+This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
+
+Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
+
+### Jekyll Starter Kit
+
+The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+
+Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
