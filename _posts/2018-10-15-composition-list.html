@@ -7,6 +7,12 @@ tags: [composition]
 image: zack-2.jpg
 ---
 
-* test 2
+* test 3
 
-{% for post in paginator.compositions %} {{ post.title }} {% endfor %}
+<article>
+  <a href="{{ site.github.url }}{{site.pages.composition-list.url}}">
+    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ site.pages.composition-list.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
