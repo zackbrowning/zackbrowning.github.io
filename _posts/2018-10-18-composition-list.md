@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Composition"
+title: "Zack Browning Composition"
 author: "Zack Browning"
 categories: composition
 tags: [documentation,sample]

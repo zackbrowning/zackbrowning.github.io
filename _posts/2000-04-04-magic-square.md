@@ -1,5 +1,5 @@
 ---
-layout: misc
+layout: post
 title: "Compositions with Magic Squares"
 author: "Zack Browning"
 categories: composition
