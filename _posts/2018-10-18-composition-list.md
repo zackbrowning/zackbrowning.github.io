@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zack Browning Composition"
+title: "Zack Browning Composition List"
 author: "Zack Browning"
 categories: composition
 tags: [documentation,sample]
