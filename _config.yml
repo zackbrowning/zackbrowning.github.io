@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Zack Browning"
-description:	       "All Music Rights Reserved "
+description:	       "All Rights Reserved "
 author:              "Zack Browning"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
