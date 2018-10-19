@@ -9,6 +9,7 @@ image: mart-1.jpg
 
 # [Click Here for Competition Guidelines](https://music.illinois.edu/martirano-award) #
 
+
 The Salvatore Martirano Memorial Composition Award is an international composers' competition held annually in memory of Mr. Martirano who was a faculty member at the University of Illinois from 1963 to 1995. The first place prize  consists of $1000.00 and a performance of the winning composition by the University of Illinois New Music Ensemble  at the Krannert Center for the Performing Arts. Zack Browning who is an AssociateProfessor of Music at the University of Illinois directs the competition.
 
  
