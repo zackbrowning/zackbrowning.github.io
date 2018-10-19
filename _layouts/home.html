@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.categories.documentation %}
 
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">

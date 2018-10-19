@@ -2,8 +2,8 @@
 layout: misc
 title: "Compositions with Magic Squares"
 author: "Zack Browning"
-categories: documentation
-tags: [documentation,sample]
+categories: composition
+tags: [composition,sample]
 image: msquare.jpg
 ---
 

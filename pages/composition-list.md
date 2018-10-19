@@ -2,7 +2,7 @@
 layout: post
 title: "Composition"
 author: "Zack Browning"
-categories: documentation
+categories: composition
 tags: [documentation,sample]
 image: zack-2.jpg
 ---
