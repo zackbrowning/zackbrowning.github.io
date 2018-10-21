@@ -120,7 +120,7 @@
 
 - title: Sol Moon Rocker
   year: 2013
-  instrument: [flute, vibraphone]
+  instrument: flute, vibraphone
   duration: 10 minutes
   audio: 
   video:
@@ -130,7 +130,7 @@
 
 - title: Unafraid
   year: 2013
-  instrument: [flute, clarinet, piano]
+  instrument: flute, clarinet, piano
   duration: 12 minutes
   audio:
   video: 
@@ -148,7 +148,7 @@
 
 - title: Mung Bean Mountain
   year: 2012
-  instrument: [flute, clarinet, violin, cello, piano]
+  instrument: flute, clarinet, violin, cello, piano
   duration: 17 minutes
   audio:
   video:
@@ -162,7 +162,7 @@
   audio: 
   video:
   publisher:
-  tag: chamber
+  tag: chamber, vocal
   note:
 
 - title: Head Swap
@@ -302,5 +302,435 @@
   audio: 
   video:
   publisher:
+  tag: chamber
+  note:
+
+- title: Secret Pulse
+  year: 2004
+  instrument: flute, violin, cello, and computer-generated sounds
+  duration: 8 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, electronic
+  note:
+
+- title: Howler Back
+  year: 2004
+  instrument: saxophone quartet
+  duration: 1 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: Crack Hammer
+  year: 2004
+  instrument: clarnet and computer-generated sounds
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: solo, electronic
+  note:
+
+- title: Back Speed Double Circuit
+  year: 2003
+  instrument: clarinet, guitar, piano, drum set, cello, double bass, and computer-generated sounds
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, electronic
+  note:
+
+- title: Blacktop Infusion
+  year: 2002
+  instrument: for piano and computer-generated sounds
+  duration: 8 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, electronic
+  note:
+
+- title: Double Shot
+  year: 2000
+  instrument: violin and piano
+  duration: 7 minutes
+  audio: 
+  video:
+  publisher:
+  tag: duo
+  note:
+
+- title: Funk Assault
+  year: 1999
+  instrument: saxophone quartet
+  duration: 8 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: Network Slammer
+  year: 1998
+  instrument: amplified flute and computer-generated sounds
+  duration: 9 minutes
+  audio: 
+  video:
+  publisher:
+  tag: solo, electronic
+  note:
+
+- title: gridRock
+  year: 1997
+  instrument: 12 trombones and computer-generated sounds
+  duration: 9 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, electronic
+  note:
+
+- title: Sole Injection
+  year: 1996
+  instrument: amplified violin and computer-generated sounds
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: solo, electronic
+  note:
+
+- title: Broadside
+  year: 1996
+  instrument: solo organ
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: solo
+  note:
+
+- title: Pure Sweat
+  year: 1995
+  instrument: amplified bass clarinet and computer-generated sounds
+  duration: 7 minutes
+  audio: 
+  video:
+  publisher:
+  tag: solo, electronic
+  note:
+
+- title: Black Notes
+  year: 1995
+  instrument: alto saxophone and computer-generated sounds
+  duration: 5 minutes
+  audio: 
+  video:
+  publisher: Brixton Publications
+  tag: solo, electronic
+  note:
+
+- title: Impact Addiction
+  year: 1995
+  instrument: violin, piano, drum set and computer-generated sounds 
+  duration: 8 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, electronic
+  note:
+
+- title: Breakpoint Screamer
+  year: 1994
+  instrument: five trumpets and computer-generated siybds
+  duration: 7 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, electronic
+  note:
+
+- title: "Trilimital Adversary: Cold Cuts"
+  year: 1993
+  instrument: trumpet, piano, double bass, drum set and computer-generated sounds
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, electronic
+  note:
+
+- title: Tear Open The Heavens
+  year: 1993
+  instrument: SATB choir and organ
+  duration: 4 minutes
+  audio: 
+  video:
+  publisher:
+  tag: choir
+  note:
+
+- title: Seascape
+  year: 1991
+  instrument: clarinet and piano
+  duration: 11 minutes
+  audio: 
+  video:
+  publisher: Brixton Publications
+  tag: duo
+  note:
+
+- title: Blue Ride
+  year: 1991
+  instrument: trumpet and piano
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: duo
+  note:
+
+- title: Pattern Play
+  year: 1989
+  instrument: trumpet, trombone, and piano
+  duration: 11 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: Second Sun
+  year: 1988
+  instrument: soprano, flute, electric guitar, and double bass
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, vocal
+  note:
+
+- title: Coming Up Sevens
+  year: 1987
+  instrument: xylophone, vibraphone, marimba, piano, and electric guitar 
+  duration: 9 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: Black Notes
+  year: 1987
+  instrument: alto saxophone and piano
+  duration: 5 minutes
+  audio: 
+  video:
+  publisher: Brixton Publications
+  tag: duo
+  note:
+
+- title: In Time
+  year: 1986
+  instrument: violin, cello, DX-7 synthesizer, and drum set
+  duration: 9 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: For The Funk Of It
+  year: 1985
+  instrument: tuba and piano
+  duration: 5 minutes
+  audio: 
+  video:
+  publisher: Brixton Publications
+  tag: duo
+  note:
+
+- title: Melancholia
+  year: 1985
+  instrument: piccolo trumpet and piano
+  duration: 6 minutes
+  audio: 
+  video:
+  publisher: Manduca Publications
+  tag: duo
+  note:
+
+- title: Akhanda
+  year: 1985
+  instrument: trumpet and percussion
+  duration: 14 minutes
+  audio: 
+  video:
+  publisher:
+  tag: duo
+  note:
+
+- title: Sun Sets
+  year: 1984
+  instrument: soprano, two trumpets, and piano
+  duration: 8 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, vocal
+  note:
+
+- title: In The Garden Of Thedas
+  year: 1983
+  instrument: trombone, double bass, harpsichord, and percussion
+  duration: 7 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: Dialogue
+  year: 1981
+  instrument: trumpet and cello
+  duration: 7 minutes
+  audio: 
+  video:
+  publisher:
+  tag: duo
+  note:
+
+- title: Crossings
+  year: 1981
+  instrument: percussion, tape, slides and lights
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: solo, electronic
+  note:
+
+- title: Zece
+  year: 1980
+  instrument: piano
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: solo
+  note:
+
+- title: Refrain
+  year: 1980
+  instrument: solo amplified trumpet
+  duration: 7 minutes
+  audio: 
+  video:
+  publisher: Manduca Publications
+  tag: solo
+  note:
+
+- title: Variables
+  year: 1979
+  instrument: for flute, oboe, viola, double bass, harp, and percussion
+  duration: 11 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: Quinet for Winds
+  year: 1978
+  instrument: flute, oboe, clarinet, horn, and bassoon
+  duration: 14 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: Concerto for Brass and Percussion
+  year: 1977
+  instrument: brass ensemble, piano, and percussion
+  duration: 12 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: String Quartet
+  year: 1976
+  instrument: two violins, viola and cello
+  duration: 12 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: Quartet
+  year: 1976
+  instrument: soprano, flute, cello, and percussion
+  duration: 12 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber, vocal
+  note:
+
+- title: Thunder Roll
+  year: 1975
+  instrument: piano and three percussionists
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher: Brixton Publications
+  tag: chamber
+  note:
+
+- title: Elegy
+  year: 1975
+  instrument: cello and piano
+  duration: 8 minutes
+  audio: 
+  video:
+  publisher:
+  tag: duo
+  note:
+
+- title: Movments for Brass Quintet
+  year: 1975
+  instrument: two trumpets, horn, trombone, and tuba
+  duration: 10 minutes
+  audio: 
+  video:
+  publisher:
+  tag: chamber
+  note:
+
+- title: Music for Oboe and Piano
+  year: 1974
+  instrument: 
+  duration: 6 minutes
+  audio: 
+  video:
+  publisher:
+  tag: duo
+  note:
+
+- title: Suite Time
+  year: 1974
+  instrument: flute, clarinet, and bassoon
+  duration: 12 minutes
+  audio: 
+  video:
+  publisher: Brixton Publications
   tag: chamber
   note:
