@@ -3,13 +3,11 @@
   image: city-2.jpg
   url: http://www.capstonerecords.org/CPS-8697.html
   list:
-    - number: 1
-      name: Breakpoint Screamer
+    - name: Breakpoint Screamer
       instrument: five trumpets and computer-generated sounds
       duration: 7'01"
       
-    - number: 2
-      name: "Trilimital Adversary: Cold Cuts"
+    - name: "Trilimital Adversary: Cold Cuts"
       instrument: trumpet, trombone, double bass, drum set and computer-generated sounds
       duration: 9'35"
 
