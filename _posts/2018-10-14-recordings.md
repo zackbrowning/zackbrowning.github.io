@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Composition"
+title: "Recordings"
 author: "Zack Browning"
 categories: documentation
 tags: [recordings]
