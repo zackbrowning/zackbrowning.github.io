@@ -9,9 +9,9 @@ menu:
 - {name: 'Biography', folder: 'documentation', file: 'about-zack-browning.html'}
 - {name: 'Compositions', folder: 'documentation', file: 'composition-page.html'}
 - {name: 'Listen', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Recordings', folder: 'pages', file: 'documentation.html'}
-- {name: 'Reviews', folder: 'pages', file: 'about.html'}
-- {name: 'Pictures', folder: 'pages', file: 'about.html'}
+- {name: 'Recordings', folder: 'pages', file: 'recordings.html'}
+#- {name: 'Reviews', folder: 'pages', file: 'about.html'}
+#- {name: 'Pictures', folder: 'pages', file: 'about.html'}
 - {name: 'Martirano Award', folder: 'documentation', file: 'martirano-award.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
