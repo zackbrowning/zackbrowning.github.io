@@ -7,4 +7,4 @@ tags: [recordings]
 image: city-1.jpg
 ---
 
-{% for item in site.data.recordings %}<article><a href="{{ item.url }}"><div class="featured-posts" {% if item.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ item.image }})"{% endif %}><h2><span>{{ item.title }}</span></h2></div></a></article> {% for titl in item.list %} 1. {{titl.name}}   {% endfor %}{% endfor %}
+{% for item in site.data.recordings %}<article><a href="{{ item.url }}"><div class="featured-posts" {% if item.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ item.image }})"{% endif %}><h2><span>{{ item.title }}</span></h2></div></a></article> {% for titl in item.list %} {{titl.number}}. {{titl.name}} \n  {% endfor %}{% endfor %}
