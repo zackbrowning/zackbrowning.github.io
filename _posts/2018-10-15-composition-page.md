@@ -4,7 +4,7 @@ title: "Composition"
 author: "Zack Browning"
 categories: documentation
 tags: [composition]
-image: doubleshot.jpg
+image: doubleshot2.jpg
 ---
 
 {% for post in site.categories.composition %}<article><a href="{{ site.github.url }}{{ post.url }}"><div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}><h2><span>{{ post.title }}</span></h2></div></a></article>{% endfor %}
