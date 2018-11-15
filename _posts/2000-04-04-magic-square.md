@@ -4,7 +4,7 @@ title: "Compositions with Magic Squares and Feng Shui"
 author: "Zack Browning"
 categories: composition
 tags: [composition,sample]
-image: Loushu.jpg
+image: LouShu.jpg
 ---
 
 Several works have been written since 2000 that belong to an original series of compositions that incorporate ancient Chinese magic squares, planetary magic squares, and feng shui as compositional models.  These compositions have focused on the structural applications of magic squares to musical form and on the rotations of the Lo Shu magic square as directed by the Flying Star System of feng shui to generate musical material. These rotations result from the birth dates of commissioners and/or dates of historical and political events being applied to feng shui which then generates layered magic squares used to predict the future. 
