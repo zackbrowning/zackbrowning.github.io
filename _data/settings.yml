@@ -6,6 +6,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'News', folder: 'documentation', file: 'news.html'}
 - {name: 'Biography', folder: 'documentation', file: 'about-zack-browning.html'}
 - {name: 'Compositions', folder: 'documentation', file: 'composition-page.html'}
 #- {name: 'Listen', folder: 'pages', file: 'sample-posts.html'}
