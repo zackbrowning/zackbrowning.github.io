@@ -7,4 +7,4 @@ tags: [documentation,sample]
 image: zack-2.jpg
 ---
 
-{% for item in site.data.composition %} <p> <dl> {{item.year}} -- <b>{{item.title}}</b> for {{item.instrument}}. ({{item.duration}})  {% if item.audio %}[audio]({{item.audio}}){% endif %}  {% if item.video %}[video]({{item.video}}){% endif %} {% endfor %}
+{% for item in site.data.composition %} <p> <dl> {{item.year}} -- <b>{{item.title}}</b> for {{item.instrument}}. ({{item.duration}})  {% if item.audio %}<a href = "{{item.audio}}"> listen </a>{% endif %}  {% if item.video %}<a href="{{item.video}}"> watch </a>{% endif %} {% endfor %}
