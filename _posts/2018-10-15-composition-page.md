@@ -12,7 +12,7 @@ image: zack-2.jpg
 
 <article>
 	<a href="https://www.ideals.illinois.edu/handle/2142/24031">
-		<div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/durerms.jpg)">
+		<div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/zb3.jpg)">
 			<h2><span>Kim, Sunjin. Zack Browning and the Compositional Process in Blockhouse, Double Shot, and Sole Injection.</span></h2>
 		</div>
 	</a>
