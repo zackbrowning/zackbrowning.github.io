@@ -4,7 +4,7 @@ title: "Recordings"
 author: "Zack Browning"
 categories: documentation
 tags: [recordings]
-image: city-1.jpg
+image: records.jpg
 ---
 
 # Click on pictures to purchase CD
