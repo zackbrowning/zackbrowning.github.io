@@ -4,7 +4,7 @@ title: "New CD"
 author: "Zack Browning"
 categories: news
 tags: [news]
-image: zack-1.jpg
+image: zb2.jpg
 ---
 
 # NEW CD RELEASE!!! #
