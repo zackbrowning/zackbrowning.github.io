@@ -5,10 +5,32 @@
   image: sd2.jpg
   url: https://www.innova.mu/albums/zack-browning/soul-doctrine
   listen: https://soundcloud.com/innovadotmu/soul-doctrine
+  list:
+    - name: Soul Doctrine
+      instrument: flute, electric guitar, and piano
+      duration: 9'25"
+      
+    - name: Silent Crackdown
+      instrument: alto saxophone and piano
+      duration: 10'00"
+      
+    - name: Flute Soldier
+      instrument: violin and computer-generated sounds
+      duration: 8'29"
+      
+    - name: Unafraid
+      instrument: flute, alto saxophone, and piano
+      duration: 12'51"
+    
+    - name: Rock Furious
+      instrument: flute and electric guitar
+      duration: 10'27"
+
   reviews:
     - source: Midwest Entertainment 
       issue: October 12, 2018
       content: “World wise contemporary classical music with a rock attitude. Browning is the kitchen sink kind of composer that can mix Oriental modes with crime jazz in the same measure and make your head spin without giving you vertigo.  Wild and wooly but still sitting down music, this almost feels like a grand 50s soundtrack by Bernstein if he was really given the chance to go off the hook for a French new wave art film. A massive ear opener, strap yourself in for a sonic good time that you almost won’t believe is happening ---all at once.” 
+
 
 
 - title: Banjaxed
