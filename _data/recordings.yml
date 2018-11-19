@@ -207,6 +207,12 @@
     - name: Decade of the Dragon
       instrument: clarinet, electric guitar, piano, and drum set
       duration: 9'10"
+  reviews:
+    - source: The Wire
+      issue: October 2018
+      review: Avant Rock
+      author: Edwin Pouncey
+      
       
  
 
