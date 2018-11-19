@@ -23,7 +23,7 @@
   instrument: soprano and alto saxophone plus piano
   duration: 3 minutes
   audio: 
-  video:
+  video: https://uofi.box.com/s/q1qet0x6utsde7wqkpd4yjk6mg7pi88c
   publisher:
   tag: chamber
   note:
@@ -33,7 +33,7 @@
   instrument: piano
   duration: 3 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=lFdZDNxla0I
   publisher:
   tag: solo
   note:
@@ -43,7 +43,7 @@
   instrument: flute and electric guitar
   duration: 9 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=PwQ_uiT78yk
   publisher:
   tag: duo
   note:
@@ -83,7 +83,7 @@
   instrument: flute, electric guitar and piano
   duration: 10 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=1IyGs9LCc18
   publisher:
   tag: chamber
   note:
@@ -93,7 +93,7 @@
   instrument: alto saxophone and piano
   duration: 10 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=jZtX77ZX9lc
   publisher:
   tag: duo
   note:
@@ -103,7 +103,7 @@
   instrument: clarinet, electric guitar, piano, and drum set
   duration: 10 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=qyDh3fsfmY4
   publisher:
   tag: chamber
   note:
@@ -113,7 +113,7 @@
   instrument: cello and piano
   duration: 12 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=N5SM3SX1uWM
   publisher:
   tag: duo
   note:
@@ -123,7 +123,7 @@
   instrument: flute, vibraphone
   duration: 10 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=25d4CinlR-8
   publisher:
   tag: chamber
   note:
@@ -133,7 +133,7 @@
   instrument: flute, clarinet, piano
   duration: 12 minutes
   audio:
-  video: 
+  video: https://www.youtube.com/watch?v=orzNAwUrWSk
   tag: chamber
   note: can replace flute with soprano sax, clarinet with alto sax
 
@@ -142,7 +142,7 @@
   instrument: [two pianos]
   duration: 13 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=WgZpsXCp41U
   tag: chamber
   note:
 
@@ -160,7 +160,7 @@
   instrument: soprano, violin, cello, and piano
   duration: 17 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=I9FyGXLnUb4
   publisher:
   tag: chamber, vocal
   note:
@@ -170,7 +170,7 @@
   instrument: amplified violin and interactive robotic machine
   duration: 15 minutes
   audio: 
-  video:
+  video: https://vimeo.com/27759330
   publisher:
   tag: chamber
   note: Collaboration with Benjamin Grosser
@@ -180,7 +180,7 @@
   instrument: percussion ensemble
   duration: 10 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=bLCZJSsRY_w
   publisher:
   tag: chamber
   note:
@@ -190,7 +190,7 @@
   instrument: flute, oboe, harp, 2 pianos, 2 violins, 2 cellos
   duration: 20 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=Di3oEk4b3Lo 
   publisher:
   tag: chamber
   note:
@@ -200,17 +200,17 @@
   instrument: violin, erhu, and gouzeng
   duration: 15 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=T-1ueFH_Ssw
   publisher:
   tag: chamber
   note:
 
-- title: Moon Trust
+- title: Moon Thrust
   year: 2009
   instrument: flute violin, cello, and percussion
   duration: 13 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=Hmeoz-ntsM4
   publisher:
   tag: chamber
   note:
@@ -220,7 +220,7 @@
   instrument: flute, viola, and piano
   duration: 11 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=EZux67qNktw
   publisher:
   tag: chamber
   note:
@@ -230,7 +230,7 @@
   instrument: 2 violins, viola, and cello
   duration: 15 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=bLQSbs0Rcis
   publisher:
   tag: chamber
   note:
@@ -250,7 +250,7 @@
   instrument: flute and percussion ensemble
   duration: 12 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=ESB8uFRyDM4
   publisher:
   tag: chamber
   note: 
@@ -260,7 +260,7 @@
   instrument: piano
   duration: 12 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=7reZXwzUMpM
   publisher:
   tag: solo
   note:
@@ -270,7 +270,7 @@
   instrument: 2 pianos and 2 percussionists
   duration: 15 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=wGR96yrjNo8
   publisher:
   tag: chamber
   note:
@@ -280,7 +280,7 @@
   instrument: flute and piano
   duration: 8 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=km9gjhE6SOc
   publisher:
   tag: duo
   note:
@@ -290,7 +290,7 @@
   instrument: violin, cello, and piano
   duration: 8 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=U_Tj7YLPKlE
   publisher:
   tag: chamber
   note:
@@ -299,7 +299,7 @@
   year: 2005
   instrument: trumper trombone, and piano
   duration: 8 minutes
-  audio: 
+  audio: https://uofi.box.com/s/dcenjajtd5v4bfsef9ms2jrmpyw2qmc1
   video:
   publisher:
   tag: chamber
@@ -310,7 +310,7 @@
   instrument: flute, violin, cello, and computer-generated sounds
   duration: 8 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=gQcoSA8D0NA
   publisher:
   tag: chamber, electronic
   note:
@@ -320,17 +320,17 @@
   instrument: saxophone quartet
   duration: 1 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=Eu3WKqsmCEc
   publisher:
   tag: chamber
-  note:
+  note: 
 
 - title: Crack Hammer
   year: 2004
   instrument: clarnet and computer-generated sounds
   duration: 10 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=j4kRBzYSi-Q
   publisher:
   tag: solo, electronic
   note:
@@ -350,7 +350,7 @@
   instrument: for piano and computer-generated sounds
   duration: 8 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=IrZLGIitxWM
   publisher:
   tag: chamber, electronic
   note:
@@ -365,12 +365,32 @@
   tag: duo
   note:
 
+- title: System Dominator
+  year: 2000
+  instrument: alto saxophone and computer-generated sounds
+  duration: 8 minutes
+  audio: 
+  video:
+  publisher:
+  tag: solo, electronic
+  note:
+
+- title: Banjaxed
+  year: 2000
+  instrument: soprano, violin, drum set, and computer-generated sounds
+  duration: 14 minutes
+  audio: https://uofi.box.com/s/4ewqntr95im9v6h1pn7w
+  video:
+  publisher:
+  tag: chamber, vocal, electronic
+  note:
+
 - title: Funk Assault
   year: 1999
   instrument: saxophone quartet
   duration: 8 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=Yz0b1Al2TuY
   publisher:
   tag: chamber
   note:
@@ -380,7 +400,7 @@
   instrument: amplified flute and computer-generated sounds
   duration: 9 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=5Rf2OhPYFC8
   publisher:
   tag: solo, electronic
   note:
@@ -400,7 +420,7 @@
   instrument: amplified violin and computer-generated sounds
   duration: 10 minutes
   audio: 
-  video:
+  video: https://www.youtube.com/watch?v=LRCAXGc0dQM
   publisher:
   tag: solo, electronic
   note:
@@ -439,7 +459,7 @@
   year: 1995
   instrument: violin, piano, drum set and computer-generated sounds 
   duration: 8 minutes
-  audio: 
+  audio: https://uofi.box.com/s/6cpiduf463uynodsmyz9
   video:
   publisher:
   tag: chamber, electronic
@@ -449,7 +469,7 @@
   year: 1994
   instrument: five trumpets and computer-generated siybds
   duration: 7 minutes
-  audio: 
+  audio: https://uofi.box.com/s/p7erub98i7os6pqrp4y4qisfetugr68q
   video:
   publisher:
   tag: chamber, electronic
@@ -459,7 +479,7 @@
   year: 1993
   instrument: trumpet, piano, double bass, drum set and computer-generated sounds
   duration: 10 minutes
-  audio: 
+  audio: https://uofi.box.com/s/3jvrxqdfy0x1zbz87e57ph9v13sf40fa
   video:
   publisher:
   tag: chamber, electronic
@@ -689,8 +709,8 @@
   year: 1975
   instrument: piano and three percussionists
   duration: 10 minutes
-  audio: 
-  video:
+  audio: https://www.youtube.com/watch?v=FN2qN-I1fCs
+  video: https://www.youtube.com/watch?v=VSSFuU7dQy8
   publisher: Brixton Publications
   tag: chamber
   note:
