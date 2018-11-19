@@ -155,5 +155,23 @@
   image: ban4.jpg
   url: http://www.capstonerecords.org/CPS-8697.html
   listen: https://www.allmusic.com/album/zack-browning-banjaxed-mw0001374783
-
- 
+  list:
+    - name: Breakpoint Screamer
+      instrument: five trumpets and computer-generated sounds
+      duration: 7'01"
+      
+    - name: "Trilimital Adversary, Cold Cuts"
+      instrument: trumpet, trombone, double bass, drum set and computer-generated sounds
+      duration: 9'35"
+      
+    - name: Sole Injection
+      instrument: violin and computer-generated sounds
+      duration: 10'00"
+      
+    - name: Black Notes
+      instrument: alto saxophone and computer-generated sounds
+      duration: 5'16"
+    
+    - name:  Banjaxed
+      instrument: voice, violin, piano, drum set and computer-generated sounds
+      duration: 13'34"
