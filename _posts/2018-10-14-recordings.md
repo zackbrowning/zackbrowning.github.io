@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Recordings"
 author: "Zack Browning"
 categories: documentation
