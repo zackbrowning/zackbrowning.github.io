@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recordings
 title: "Recordings"
 author: "Zack Browning"
 categories: documentation
