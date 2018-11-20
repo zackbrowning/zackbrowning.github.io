@@ -1,5 +1,5 @@
 ---
-layout: recordings
+layout: foo
 title: "Recordings"
 author: "Zack Browning"
 categories: documentation
