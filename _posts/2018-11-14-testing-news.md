@@ -9,3 +9,5 @@ image: zb.jpg
 
 # NEW CD RELEASE!!! #
 [Buy CD HERE](http://www.google.com)
+
+Zack's new concert is coming!!!
