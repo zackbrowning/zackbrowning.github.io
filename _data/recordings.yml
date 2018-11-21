@@ -321,3 +321,23 @@
     - source: AllMusic
       issue: July, 2007
       content: “The title Funktasia is more applicable to the music of Zack Browning, which mixes select references to the language of popular music with structures derived from abstruse formal devices like magic squares. His zippy music is made up of short, punchy blasts that are accented by sharp but subtle contrasts of texture between instruments, often between an electronic and an acoustic sound. In the opening Pure Sweat, for example, a bass clarinet veers off from buzzy electronic sounds. The use of the electric guitar in Coming Up Sevens (1987) is notable. It is one of a fairly small group of modern compositions that uses instruments from the popular world but divorces them from its stylistic references -- and plays with the results in interesting ways.” 
+
+
+
+- title: David Brooks - Violin and Electronics  
+  overview: Recording by Davis Brooks of Sole Injection on a collection of works for violin and electronics.  
+  year: 2010
+  publisher: DB01-10
+  image: db.jpg
+  url: https://www.amazon.com/Violin-Electronics-Davis-Brooks/dp/B004WLMTP2
+  listen: https://www.youtube.com/watch?v=ECsBIsUvog8
+
+  list:
+    - name: Sole Injection
+      instrument: violin and computer-generated sounds
+      duration: 10'00"
+      
+  reviews:
+    - source: Nuvo – Indy’s Alternative Voice 
+      issue: January 19, 2011
+      content: “I'll give you a trippy image to illustrate Zack Browning's Sole Injection for violin and computer-generated sounds - a bullet train, its wheels replaced by "Simon" games, which randomly and rhythmically light up and beep as the train inches along, away from the station and into (let's say) Candyland. Browning's magic square composition techniques, which end up supplying a circular, propulsive, bright electronic background for Brooks' violin.”  
