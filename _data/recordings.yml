@@ -481,3 +481,17 @@
     - name: Breakpoint Screamer
       instrument: trumpet ensemble and computer-generated sounds
       duration: 7'01"
+      
+      
+- title:  2017 Midwest Clinic - The United States Coast Guard Saxophone Quartet    
+  overview: Live recording of Howler Back at the 2017 Midwest Clinic in Chicago.      
+  year: April 19, 2018
+  publisher: Mark Records
+  image: mid.jpg
+  url:  https://www.amazon.com/2017-Midwest-Clinic-Saxophone-Quartet/dp/B07C5DPYMH
+  listen: https://www.prestomusic.com/classical/products/8436637--2017-midwest-clinic-the-united-states-coast-guard-saxophone-quartet-live
+
+  list:
+    - name: Howler Back
+      instrument: soprano saxophone, alto saxophone, tenor saxophone, and baritone saxophone
+      duration: 1'22"
