@@ -495,3 +495,17 @@
     - name: Howler Back
       instrument: soprano saxophone, alto saxophone, tenor saxophone, and baritone saxophone
       duration: 1'22"
+
+
+- title:  Rose Shlyam Grace and Friends. Vibrations of Hope - Music of the New Millennium     
+  overview: Premiere recording of Vibrations of Hope performed by Rose Shlyam Grace and Kristie Born.      
+  year: January 1, 2015
+  publisher: Albany Records
+  image: sun.jpg
+  url:  https://www.albanyrecords.com/mm5/merchant.mvc?Screen=PROD&Store_Code=AR&Product_Code=TROY1533&Category_Code=a-Chamber
+  listen: https://www.youtube.com/watch?v=23jClYmK8CM
+
+  list:
+    - name: Vibrations of Hope
+      instrument: two pianos
+      duration: 13'22"
