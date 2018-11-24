@@ -467,3 +467,17 @@
     - source: International Trumpet Guild Journal  
       issue: February 1992
       content: “The album begins with the title work Melancholia for piccolo trumpet and piano, written in 1985 by Zack Browning. The work is a clever conversational piece between the two instruments with light staccato fragments intermixed with disjunct lyrical passages. It is performed with great precision and accuracy by Micahel Tunnell and his wife Meme.” 
+
+
+- title:  In Celebration of the 50th Anniversary of the University of Illinois Experimental Music Studios (1958-2008)   
+  overview: Recording of Breakpoint Screamer performed by Ensemble Screamer (composer conducting).     
+  year: 2008
+  publisher: EMS
+  image: ex.jpg
+  url: https://music.illinois.edu/ems-history-50th-anniversary
+  listen: 
+
+  list:
+    - name: Breakpoint Screamer
+      instrument: trumpet ensemble and computer-generated sounds
+      duration: 7'01"
