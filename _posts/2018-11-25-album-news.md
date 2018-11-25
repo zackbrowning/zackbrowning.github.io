@@ -4,8 +4,10 @@ title: "New Album Release *Soul Doctrine* performed by Sonata Islands!"
 author: "Zack Browning"
 categories: news
 tags: [news]
-image: siback.jpg
+image: si1.jpg
 ---
+
+
 #Soul Doctrine#
 [click here for album]  (https://www.innova.mu/albums/zack-browning/soul-doctrine)
 
