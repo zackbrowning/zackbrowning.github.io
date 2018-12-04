@@ -4,7 +4,7 @@ title: "About Zack Browning"
 author: "Zack Browning"
 categories: documentation
 tags: [documentation,sample]
-image: zb30.jpg
+image: zb31.jpg
 ---
 133 words
 
