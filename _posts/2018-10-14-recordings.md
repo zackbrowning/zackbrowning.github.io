@@ -22,7 +22,7 @@ image: records.jpg
     </a>
         </article> 
             {% if item.listen %}
-                <p><h2><a href="{{ item.listen }}"> Listen to {{ item.title }} online. </a></h2></p>
+                <p><h2><a href="{{ item.listen }}"> Listen to {{ item.title }}  ({{item.year}}) </a></h2></p>
             {% endif %} 
 
             {% if item.overview %}
