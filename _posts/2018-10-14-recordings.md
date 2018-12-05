@@ -14,8 +14,11 @@ image: records.jpg
     <br>
     <article>
     <a href="{{ item.url }}">
-        <div class="featured-posts" {% if item.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ item.image }})"{% endif %}>
-        </div>
+        {% if item.image %}
+            <div class="featured-image">
+                <img src="{{ site.github.url }}/assets/img/{{ item.image }}">
+            </div>
+        {% endif %}
     </a>
         </article> 
             {% if item.listen %}
