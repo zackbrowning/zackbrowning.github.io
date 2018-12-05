@@ -18,6 +18,14 @@
   display: block;
   max-width: 600px;
 }
+
+.recordings-image img {
+  align: middle;
+  margin: 5px auto 25px;
+  display: block;
+  width: 600px;
+}
+
 @media (max-width: $container-width) {
   .page-content {
     width: 60vw;

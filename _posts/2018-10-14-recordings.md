@@ -15,7 +15,7 @@ image: records.jpg
     <article>
     <a href="{{ item.url }}">
         {% if item.image %}
-            <div class="featured-image">
+            <div class="recordings-image">
                 <img src="{{ site.github.url }}/assets/img/{{ item.image }}">
             </div>
         {% endif %}
