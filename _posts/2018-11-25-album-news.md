@@ -1,12 +1,12 @@
 ---
 layout: post
-title: New Album Release *Soul Doctrine* performed by Sonata Islands!
+title: New Album Release <i>Soul Doctrine</i> performed by Sonata Islands!
 author: "Zack Browning"
 categories: news
 tags: [news]
 image: si4.jpg
 ---
-#Soul Doctrine#
+# Soul Doctrine #
 
 [click here for album](https://www.innova.mu/albums/zack-browning/soul-doctrine)
 
