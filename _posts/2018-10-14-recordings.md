@@ -1,6 +1,6 @@
 ---
 layout: recordings
-title: "Recordings"
+title: "Recordings/Reviews"
 author: "Zack Browning"
 categories: documentation
 tags: [recordings]
