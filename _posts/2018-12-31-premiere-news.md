@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ensemble Hye to premiere <i> Songs of the Double Moon <i> in Seoul on May 18!
+title: Ensemble Hye to premiere <i> Songs of the Double Moon <i> in Seoul on May 18, 2019
 author: "Zack Browning"
 categories: news
 tags: [news]
