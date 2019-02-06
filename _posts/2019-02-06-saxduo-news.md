@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blair/Mertens Duo perform Right at the Dead End on Third Continent and in Fourth Country!
+title: Blair/Mertens Duo perform <i>Right at the Dead End<i> on Third Continent and in Fourth Country!
 author: "Zack Browning"
 categories: news
 tags: [news]
