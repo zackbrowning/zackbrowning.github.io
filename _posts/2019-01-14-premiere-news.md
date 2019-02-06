@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ensemble Hye to premiere Songs of the Double Moon in Seoul
+title: Ensemble Hye to premiere <i>Songs of the Double Moon</i> in Seoul
 author: "Zack Browning"
 categories: news
 tags: [news]
