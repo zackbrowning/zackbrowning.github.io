@@ -4,7 +4,7 @@ title: Composition Vii Saxophone Quartet perform <i>Unrelenting Universe</i> in 
 author: "Zack Browning"
 categories: news
 tags: [news]
-image: sq.jpg
+image: sq.jpg.jpg
 ---
 Composition VII Saxophone Quartet gave the Taiwanese premiere of <i>Unrelenting Universe</i> at the National Taiwan University of the Arts in Taipei, Taiwan. The current members Po-Yuan Ku, Chih-Huan Wu, Pin-Hua Chen, and Po-Fang Chang all hold doctoral degrees in saxophone performance from different universities in North America.
 
