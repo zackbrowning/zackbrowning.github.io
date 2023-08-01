@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MEMO Duo premieres <i>Cosmic Changes</i>!"
+title: MEMO Duo premieres <i>Cosmic Changes</i>!
 author: "Zack Browning"
 categories: news
 tags: [news]
