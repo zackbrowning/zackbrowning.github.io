@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MEMO Duo premieres <i>Cosmic Changes</i>!
+title: MEMO Duo premieres <i>Cosmic Changes</i> on August 3, 2023!
 author: "Zack Browning"
 categories: news
 tags: [news]
