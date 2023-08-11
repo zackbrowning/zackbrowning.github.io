@@ -549,9 +549,9 @@
   year: 1991
   instrument: clarinet and piano
   duration: 11 minutes
-  audio: 
+  audio: https://uofi.box.com/s/amlq5epojxbsu3n3zdbxa1xdtyaunc4l
   video:
-  publisher: Brixton Publications
+  publisher: Cimarron Music Press
   tag: duo
   note:
 
@@ -601,7 +601,7 @@
   duration: 5 minutes
   audio: 
   video:
-  publisher: Brixton Publications
+  publisher: Cimarron Music Press
   tag: duo
   note:
 
@@ -619,9 +619,9 @@
   year: 1985
   instrument: tuba and piano
   duration: 5 minutes
-  audio: 
+  audio: https://uofi.box.com/s/k9scu93eien1rkmutrapbwuux2nsb1jp 
   video:
-  publisher: Brixton Publications
+  publisher: Cimarron Music Press
   tag: duo
   note:
 
@@ -761,7 +761,7 @@
   duration: 10 minutes
   audio: https://www.youtube.com/watch?v=FN2qN-I1fCs
   video: https://www.youtube.com/watch?v=VSSFuU7dQy8
-  publisher: Brixton Publications
+  publisher: Cimarron Music Press
   tag: chamber
   note:
 
@@ -795,12 +795,32 @@
   tag: duo
   note:
 
-- title: Suite Time
+- title: Suite Time I Imaginary Time
   year: 1974
   instrument: flute, clarinet, and bassoon
-  duration: 12 minutes
-  audio: 
+  duration: 4.5 minutes
+  audio: https://uofi.box.com/s/a1ldbe0qko37w4gkbmg6lmj2xuovlrll
   video:
-  publisher: Brixton Publications
+  publisher: Cimarron Music Press
+  tag: chamber
+  note:
+  
+- title: Suite Time III Easy Time
+  year: 1974
+  instrument: flute, clarinet, and bassoon
+  duration: 3.5 minutes
+  audio: https://uofi.box.com/s/9jv2x8bp496kddty83dhsxeqcui25cu2
+  video:
+  publisher: Cimarron Music Press
+  tag: chamber
+  note:
+
+- title: Suite Time IV Hard Time
+  year: 1974
+  instrument: flute, clarinet, and bassoon
+  duration: 3 minutes
+  audio: https://uofi.box.com/s/80jsocijtswrzky0i3825iil4wrfovtd
+  video:
+  publisher: Cimarron Music Press
   tag: chamber
   note:
