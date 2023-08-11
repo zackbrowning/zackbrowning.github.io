@@ -1,6 +1,6 @@
 ---
 layout: post
-title: William Moersch and Jupiter String Quartet premiere <i>Rock Galaxy</i> on October 29,2023 at the University of Illinois!
+title: William Moersch and Jupiter String Quartet premiere <i>Rock Galaxy</i> on October 29, 2023 at the University of Illinois!
 author: "Zack Browning"
 categories: news
 tags: [news]
