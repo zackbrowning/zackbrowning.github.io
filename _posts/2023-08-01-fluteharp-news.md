@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MEMO Duo premieres <i>Cosmic Changes</i> on August 3, 2023 at the National Flute Association Conference!
+title: MEMO Duo premieres <i>Cosmic Changes</i> on August 3, 2023 at the National Flute Association Convention!
 author: "Zack Browning"
 categories: news
 tags: [news]
